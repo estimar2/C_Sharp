@@ -1,0 +1,9 @@
+C:\Users\songs\Desktop\EDUCATION\C#\AnimalShelter\bin\Debug\AnimalShelter.exe.config
+C:\Users\songs\Desktop\EDUCATION\C#\AnimalShelter\bin\Debug\AnimalShelter.exe
+C:\Users\songs\Desktop\EDUCATION\C#\AnimalShelter\bin\Debug\AnimalShelter.pdb
+C:\Users\songs\Desktop\EDUCATION\C#\AnimalShelter\obj\Debug\AnimalShelter.csprojAssemblyReference.cache
+C:\Users\songs\Desktop\EDUCATION\C#\AnimalShelter\obj\Debug\AnimalShelter.Form1.resources
+C:\Users\songs\Desktop\EDUCATION\C#\AnimalShelter\obj\Debug\AnimalShelter.Properties.Resources.resources
+C:\Users\songs\Desktop\EDUCATION\C#\AnimalShelter\obj\Debug\AnimalShelter.csproj.GenerateResource.cache
+C:\Users\songs\Desktop\EDUCATION\C#\AnimalShelter\obj\Debug\AnimalShelter.exe
+C:\Users\songs\Desktop\EDUCATION\C#\AnimalShelter\obj\Debug\AnimalShelter.pdb

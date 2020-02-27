@@ -1,0 +1,9 @@
+C:\Users\songs\Desktop\EDUCATION\C#\CuteCat\CuteCat\bin\Debug\CuteCat.exe.config
+C:\Users\songs\Desktop\EDUCATION\C#\CuteCat\CuteCat\bin\Debug\CuteCat.exe
+C:\Users\songs\Desktop\EDUCATION\C#\CuteCat\CuteCat\bin\Debug\CuteCat.pdb
+C:\Users\songs\Desktop\EDUCATION\C#\CuteCat\CuteCat\obj\Debug\CuteCat.csprojAssemblyReference.cache
+C:\Users\songs\Desktop\EDUCATION\C#\CuteCat\CuteCat\obj\Debug\CuteCat.Form1.resources
+C:\Users\songs\Desktop\EDUCATION\C#\CuteCat\CuteCat\obj\Debug\CuteCat.Properties.Resources.resources
+C:\Users\songs\Desktop\EDUCATION\C#\CuteCat\CuteCat\obj\Debug\CuteCat.csproj.GenerateResource.cache
+C:\Users\songs\Desktop\EDUCATION\C#\CuteCat\CuteCat\obj\Debug\CuteCat.exe
+C:\Users\songs\Desktop\EDUCATION\C#\CuteCat\CuteCat\obj\Debug\CuteCat.pdb
